@@ -11,12 +11,12 @@
 `Python` · `Django` · `DRF` · `FastAPI` · `Aiogram` · `PostgreSQL` · `SQLite` · `Redis` · `Celery` · `Docker` · `Nginx` · `HTML/CSS/JS` · `Linux`
 
 Ключевые проекты:
-- [Email Sender](link) — платформа транзакционных писем и прогрева доменов.
-- [AI Photobot](link) — Telegram-бот для AI-обработки фото.
-- [News Portal](link) — новостной портал с подписками и Celery.
-- [Auth System](link) — модуль аутентификации с RBAC.
-- [MMORPG Board](link) — доска объявлений с рассылками и Celery.
-- [Pereval API](link) — REST API для федерального сервиса туризма.
+- [Email Sender](https://github.com/qXstay/email_sender) — платформа транзакционных писем и прогрева доменов.
+- [AI Photobot](https://github.com/qXstay/AI_photobot) — Telegram-бот для AI-обработки фото.
+- [News Portal](https://github.com/qXstay/News_portal) — новостной портал с подписками и Celery.
+- [Auth System](https://github.com/qXstay/auth-system) — модуль аутентификации с RBAC.
+- [MMORPG Board](https://github.com/qXstay/MMORPG-Board) — доска объявлений с рассылками и Celery.
+- [Pereval API](https://github.com/qXstay/pereval_api) — REST API для федерального сервиса туризма.
 
 Со мной удобно:
 - Помогаю сформулировать понятное ТЗ.
