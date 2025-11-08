@@ -19,5 +19,6 @@
 - на связи, объясняю без перегруза техподробностями.
 
 Связь по проектам:
-- Kwork: (ссылку вставь сюда)
-- Яндекс Услуги: (ссылку вставь сюда)
+- Kwork: [Ссылка](https://kwork.ru/user/qxstay)
+- Яндекс Услуги: [Ссылка](https://yandex.ru/uslugi/profile/AleksandrGarbuzov-3160691)
+- [Telegram](https://t.me/qxstay)
