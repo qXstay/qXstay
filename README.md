@@ -47,6 +47,4 @@ Python · TypeScript · React · Next.js · Django · FastAPI · Aiogram · Node
 
 ## Связь
 
-- [Kwork](https://kwork.ru/user/qxstay)
-- [Яндекс Услуги](https://uslugi.yandex.ru/profile/AleksandrGarbuzov-3160691)
-- [Telegram](https://t.me/qxstay)
+[Kwork](https://kwork.ru/user/qxstay) · [Яндекс Услуги](https://uslugi.yandex.ru/profile/AleksandrGarbuzov-3160691) · [Telegram](https://t.me/qxstay)
