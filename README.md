@@ -1,49 +1,27 @@
 # Александр / qXstay
 
-Разработчик бизнес-решений на **Python** и **TypeScript**.
+Разрабатываю бизнес-решения на Python и TypeScript.
 
-> Делаю Telegram-ботов, Mini Apps, CRM, AI-интеграции и внутренние сервисы для бизнеса.  
-> Помогаю автоматизировать заявки, оплаты, записи, уведомления, отчёты и рутинные процессы.
-
----
+Навожу порядок в заявках, оплатах, клиентах и рутинных процессах через Telegram, AI, CRM, Mini Apps и интеграции.
 
 ## Что делаю
 
 - Telegram-боты и Mini Apps
-- AI-боты и интеграции с AI API
-- CRM, mini-CRM и внутренние панели
-- Интеграции с оплатой, таблицами, CRM и внешними API
-- Автоматизация заявок, уведомлений и рутины
-- Доработка и поддержка существующих проектов
+- AI-ассистенты и AI-интеграции
+- CRM, mini-CRM и POS-системы
+- Внутренние панели для заявок и клиентов
+- Интеграции с оплатой, таблицами, CRM и API
 
----
+## Кейсы
 
-## Ключевые кейсы
-
-### [NeuroFox AI](https://github.com/qXstay/neurofox-ai)
-AI-платформа для генерации фото, видео, музыки и общения с AI-чатом.  
-**Внутри:** пользователи, токены, тарифы, платежи, история генераций.  
-[Сайт →](https://neurofox.art)
-
-### [NeuroFox AI Telegram Bot](https://github.com/qXstay/neurofox-ai-telegram-bot)
-Коммерческий Telegram-бот для генерации фото, видео, музыки и работы с AI-чатом.  
-**Внутри:** платежи, баланс токенов, тарифы, история генераций, реферальная программа.  
-**Статус:** работает в продакшене.  
-[Telegram →](https://t.me/Malinovsky_AI_bot)
-
-### [Pegas Auto CRM](https://github.com/qXstay/pegas-auto-crm)
-CRM/POS-система для сети шиномонтажей.  
-**Внутри:** заказы, клиенты, автомобили, запись, смены, склад, зарплаты, аналитика.  
-**Статус:** используется в продакшене для 3 филиалов.
-
----
+- [NeuroFox AI](https://github.com/qXstay/neurofox-ai) - AI-платформа для фото, видео, музыки и AI-чата.
+- [NeuroFox Telegram Bot](https://github.com/qXstay/neurofox-ai-telegram-bot) - коммерческий Telegram AI-бот с оплатой, тарифами и токенами.
+- [Pegas Auto CRM](https://github.com/qXstay/pegas-auto-crm) - CRM/POS для сети шиномонтажей на 3 филиала.
 
 ## Стек
 
-`Python` `TypeScript` `React` `Next.js` `Django` `FastAPI` `Aiogram` `Node.js` `PostgreSQL` `Prisma` `Redis` `Celery` `Docker`
+Python · TypeScript · Django · FastAPI · Aiogram · React · Next.js · PostgreSQL · Redis · Docker
 
----
+## Связь
 
-## Контакты
-
-[Сайт](https://qxstay.ru) • [Telegram](https://t.me/qxstay) • [Kwork](https://kwork.ru/user/qxstay)
+[Telegram](https://t.me/qxstay) · [Kwork](https://kwork.ru/user/qxstay) · [Сайт](https://qxstay.ru)
