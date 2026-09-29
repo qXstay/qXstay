@@ -2,7 +2,7 @@
 
 <p align="center">Собираю систему под то, как вы уже работаете. Готовые проекты можно открыть прямо сейчас.</p>
 
-<p align="center"><a href="https://qxstay.ru"><b>qxstay.ru</b></a> &nbsp;·&nbsp; <a href="https://t.me/qxstay">Telegram</a> &nbsp;·&nbsp; <a href="https://kwork.ru/user/qxstay">Kwork</a></p>
+### <p align="center"><a href="https://qxstay.ru"><b>qxstay.ru</b></a> &nbsp;·&nbsp; <a href="https://t.me/qxstay">Telegram</a> &nbsp;·&nbsp; <a href="https://kwork.ru/user/qxstay">Kwork</a></p>
 
 <table>
 <tr>
@@ -13,7 +13,6 @@
 <br><br>
 <b>3 системы</b> подряд заказал этот клиент: после курьерской ещё логистику и склад.
 <h3><a href="https://courier.qxstay.ru">Открыть систему »</a></h3>
-<sub>Вход в один клик, данные вымышленные.</sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://tires.qxstay.ru"><img src="https://raw.githubusercontent.com/qXstay/protector-crm/main/docs/screen.png" alt="Протектор: заказы сети шиномонтажей за день"></a>
@@ -22,7 +21,6 @@
 <br><br>
 <b>3 точки</b> в одной системе. Через месяц заказчик вернулся за следующим этапом.
 <h3><a href="https://tires.qxstay.ru">Открыть систему »</a></h3>
-<sub>Вход в один клик, данные вымышленные.</sub>
 </td>
 </tr>
 </table>
