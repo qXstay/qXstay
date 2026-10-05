@@ -28,6 +28,21 @@
 <table>
 <tr>
 <td width="50%" valign="middle">
+<a href="https://dozvon.qxstay.ru"><img src="https://raw.githubusercontent.com/qXstay/dozvon-crm/main/docs/screen.png" alt="Дозвон: сводка владельца агентства с записями звонков"></a>
+</td>
+<td width="50%" valign="middle">
+<h3>Дозвон</h3>
+Агентство холодных звонков. К каждой заявке приложена запись разговора, клиент платит только за принятые.
+<br><br>
+<b>3 роли</b> в одной системе: клиент заказывает, оператор звонит, владелец слушает записи.
+<h3><a href="https://dozvon.qxstay.ru">Открыть систему »</a></h3>
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%" valign="middle">
 <a href="https://neurofox.art"><img src="https://raw.githubusercontent.com/qXstay/neurofox-ai/main/docs/01-mobile-home-chat.jpg" alt="NeuroFox: главная и AI-чат"></a>
 </td>
 <td width="50%" valign="middle">
