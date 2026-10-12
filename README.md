@@ -15,6 +15,16 @@
 <h3><a href="https://courier.qxstay.ru">Открыть систему »</a></h3>
 </td>
 <td width="50%" valign="top">
+<a href="https://fura.qxstay.ru"><img src="https://raw.githubusercontent.com/qXstay/fura-crm/main/docs/screen.png" alt="Фура: сводка перевозчика с рейсами и пакетом водителя"></a>
+<h3>Фура</h3>
+Перевозчик сборных грузов между Россией и Беларусью. Заявки собираются в рейс, и сразу видно, сколько ещё влезет по весу, объёму и палетам.
+<br><br>
+<b>1 кнопка</b>: складской список, CMR и договоры-заявки водителю одним PDF.
+<h3><a href="https://fura.qxstay.ru">Открыть систему »</a></h3>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://tires.qxstay.ru"><img src="https://raw.githubusercontent.com/qXstay/protector-crm/main/docs/screen.png" alt="Протектор: заказы сети шиномонтажей за день"></a>
 <h3>Протектор</h3>
 Сеть шиномонтажей. Заказ-наряд за минуту, чек сразу, зарплата мастеров считается сама.
@@ -22,15 +32,8 @@
 <b>3 точки</b> в одной системе. Через месяц заказчик вернулся за следующим этапом.
 <h3><a href="https://tires.qxstay.ru">Открыть систему »</a></h3>
 </td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="50%" valign="middle">
+<td width="50%" valign="top">
 <a href="https://dozvon.qxstay.ru"><img src="https://raw.githubusercontent.com/qXstay/dozvon-crm/main/docs/screen.png" alt="Дозвон: сводка владельца агентства с записями звонков"></a>
-</td>
-<td width="50%" valign="middle">
 <h3>Дозвон</h3>
 Агентство холодных звонков. К каждой заявке приложена запись разговора, клиент платит только за принятые.
 <br><br>
@@ -62,7 +65,7 @@
 2. Показываю первую версию, её можно открыть и потрогать.
 3. Запускаем. Первый месяц поддержки бесплатно, оплата по этапам, за готовый результат.
 
-**7 систем** работают у заказчиков &nbsp;·&nbsp; **5.0** на Kwork
+**10+ систем** работают у заказчиков &nbsp;·&nbsp; **5.0** на Kwork
 
 <h3 align="center"><a href="https://t.me/qxstay">Написать в Telegram »</a></h3>
 <p align="center">Опишите задачу как есть. Разберёмся вместе, и я предложу, с чего начать.</p>
