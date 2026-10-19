@@ -37,7 +37,7 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://fura.qxstay.ru"><img src="https://raw.githubusercontent.com/qXstay/fura-crm/main/docs/screen.png" alt="Фура: сводка перевозчика с рейсами и пакетом водителя"></a>
+<a href="https://fura.qxstay.ru"><img src="https://raw.githubusercontent.com/qXstay/fura-crm/main/docs/screen.png" alt="Фура: рейс со схемой загрузки, догрузом и маржой"></a>
 </td>
 <td width="50%" valign="top">
 <a href="https://dozvon.qxstay.ru"><img src="https://raw.githubusercontent.com/qXstay/dozvon-crm/main/docs/screen.png" alt="Дозвон: сводка владельца агентства с записями звонков"></a>
@@ -46,9 +46,9 @@
 <tr>
 <td width="50%" valign="top">
 <h3>Фура</h3>
-Перевозчик сборных грузов между Россией и Беларусью. Заявки собираются в рейс, и сразу видно, сколько ещё влезет по весу, объёму и палетам.
+Перевозчик сборных грузов между Россией и Беларусью. На схеме кузова видно каждое место, влезет ли догруз и сколько он добавит к марже рейса.
 <br><br>
-<b>1 кнопка</b>: складской список, CMR и договоры-заявки водителю одним PDF.
+<b>ЭТрН и 1С</b>: водитель подписывает накладную с телефона, оплаты из банка разносятся по счетам сами.
 </td>
 <td width="50%" valign="top">
 <h3>Дозвон</h3>
